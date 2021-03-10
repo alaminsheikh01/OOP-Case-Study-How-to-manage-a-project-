@@ -22,3 +22,72 @@ Objects:
 13. Employee Account
 
 
+Student:
+
+* id
+* name
+* guardian
+* email
+* account
+* exams
+* department
+* subjects
+
+Guardian:
+
+* id
+* name
+* contact
+* profession
+* income
+
+
+Teacher:
+
+* id
+* name
+* email
+* contact
+* department
+* subject
+* salary
+
+
+Stuff:
+
+* id
+* name
+* contact
+* department
+
+
+Subject:
+
+* id
+* name
+* credit
+* department
+
+Exam:
+
+* id
+* name
+* pass marks
+* duration
+* subject
+* student
+
+Account: 
+
+* id
+* type
+* amount
+* time
+
+
+
+
+
+
+
+
