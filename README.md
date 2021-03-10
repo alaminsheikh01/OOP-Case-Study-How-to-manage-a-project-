@@ -84,6 +84,24 @@ Account:
 * amount
 * time
 
+common properties:
+
+Contact:
+
+* id
+* email
+* phone
+* alternative phone
+
+Address:
+
+* id
+* road no
+* city
+* region
+* country
+* postal code
+
 
 
 
