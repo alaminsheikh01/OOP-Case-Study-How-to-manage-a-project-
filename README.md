@@ -33,6 +33,8 @@ Student:
 * department
 * subjects
 
+
+
 Guardian:
 
 * id
@@ -104,6 +106,7 @@ Address:
 
 
 
+![UMS diagram](https://user-images.githubusercontent.com/57319298/110734778-b5906380-8252-11eb-88c9-399bd665d2bc.png)
 
 
 
